@@ -1,0 +1,8 @@
+{
+  "name": "JadwalKu - Planner Jadwal & Tugas Siswa",
+  "description": "Aplikasi planner jadwal harian siswa interaktif dengan pengingat deadline tugas, jadwal pelajaran mingguan, timer belajar Pomodoro, dan integrasi kalender Google / iCal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
